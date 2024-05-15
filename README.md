@@ -5,7 +5,7 @@
 
 -  I’m currently learning **PyTorch**
 
--  How to reach me **gokulgklas007@gmail.com**
+-  Contact: **gokulgklas007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
