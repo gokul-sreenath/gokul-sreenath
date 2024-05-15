@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gokul Sreenath</h1>
-<h3 align="center">A passionate Machine Learning enthusiast from India</h3>
+<h1 align="center">Hi, I'm Gokul Sreenath</h1>
+<h3 align="center">Machine Learning enthusiast | Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-sreenath&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-sreenath" /> </p>
 
-- 🌱 I’m currently learning **PyTorch**
+-  I’m currently learning **PyTorch**
 
-- 📫 How to reach me **gokulgklas007@gmail.com**
+-  How to reach me **gokulgklas007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
