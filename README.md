@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-sreenath&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-sreenath" /> </p>
 
--  I’m currently learning **TenserFlow**
+-  I’m currently learning **React**
 
 -  Contact: **gokulgklas007@gmail.com**
 
